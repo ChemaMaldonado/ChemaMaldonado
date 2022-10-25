@@ -1,9 +1,9 @@
-![ChemaMaldonadoPicture]
+![profile](https://user-images.githubusercontent.com/94164544/197715270-8ff530f8-7e31-47e7-8c23-6835992d085b.jpeg)
 
 
 # Hi, I'm Chema 👋🏼
 
 - 👨🏼‍💻 Currently working with React and NextJS 
-- 🤓 Always trying to learn the latest technology. Right now I'm really into web 3.0
+- 🤓 Always trying to learn the latest technology. Right now really into UX & UI design
 - ✍🏼 Lets get in touch - [LinkedIn](https://www.linkedin.com/in/chema-maldonado-l%C3%B3pez-2a55aa170/)
 - Checkout my blog for useful js development content [ezcmlblog](https://ezcml.blog)
